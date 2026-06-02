@@ -53,15 +53,5 @@
 - PySpark
 
 ### Angular Learning Projects
-- handling_user-inputs
-- Angular-directives
-- component-lifecycle
-- services_DI
-- RxJS-Observables
-- http-requests
-- routing-and-multipageSPAs
-- onchange-detection-strategies
 
-
-- Working-With-HDFS
-- hdfs-spark-learning
+A collection of repositories exploring Angular concepts including routing, dependency injection, directives, RxJS, forms, HTTP requests and component lifecycle management.
