@@ -1,16 +1,62 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**MahendherThatikonda/MahendherThatikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Web Development (.NET, Angular, Full Stack)
 
-Here are some ideas to get you started:
+### Full Stack Projects
+- DevSpot (.NET Core MVC, Identity, Role-Based Access)
+- CodePulse.API (ASP.NET Core Web API)
+- CodePulse.UI (Angular 20 Frontend)
+- DiaryEntries-WebAPI-CRUD (.NET Core Web API + EF Core)
+- Diary (ASP.NET Core CRUD Application)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Angular Applications
+- angular-app
+- angular-task-management
+- emi-calculator
+- Investment-calculator
+
+### Angular Learning Projects
+- handling_user-inputs
+- Angular-directives
+- component-lifecycle
+- services_DI
+- RxJS-Observables
+- http-requests
+- routing-and-multipageSPAs
+- onchange-detection-strategies
+
+---
+
+## 🤖 AI & LLM Engineering
+
+### Production-Oriented AI Projects
+- compliance-ai-assistant
+- langgraph-ai-agent
+
+### RAG & LangChain Projects
+- rag_pipeline_langchain
+- langchain-project
+- pdf-chatbot
+- web-chatbot
+
+---
+
+## 🗺️ GIS & Spatial Analysis
+
+### Geospatial Projects
+- Geospatial-Analysis
+- Geospatial-Analysis-using-Python
+
+### Advanced GIS Projects
+- christchurch-solar-pv-parkinglots
+
+---
+
+## 📊 Data Science & Analytics
+
+### Data Science Applications
+- Data-Analysis-using-ShinyApp
+
+### Big Data & Distributed Computing
+- Working-With-HDFS
+- hdfs-spark-learning
