@@ -14,17 +14,6 @@
 - angular-task-management
 - emi-calculator
 - Investment-calculator
-
-### Angular Learning Projects
-- handling_user-inputs
-- Angular-directives
-- component-lifecycle
-- services_DI
-- RxJS-Observables
-- http-requests
-- routing-and-multipageSPAs
-- onchange-detection-strategies
-
 ---
 
 ## 🤖 AI & LLM Engineering
@@ -58,5 +47,21 @@
 - Data-Analysis-using-ShinyApp
 
 ### Big Data & Distributed Computing
+- Hadoop Distributed File System (HDFS)
+- Apache Spark
+- Hive
+- PySpark
+
+### Angular Learning Projects
+- handling_user-inputs
+- Angular-directives
+- component-lifecycle
+- services_DI
+- RxJS-Observables
+- http-requests
+- routing-and-multipageSPAs
+- onchange-detection-strategies
+
+
 - Working-With-HDFS
 - hdfs-spark-learning
