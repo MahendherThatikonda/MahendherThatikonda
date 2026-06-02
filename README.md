@@ -1,5 +1,5 @@
 # Portfolio
-
+**Areas of Interest:** Software Development • AI/LLMs • GIS • Data Science
 ## 🌐 Web Development (.NET, Angular, Full Stack)
 
 ### Full Stack Projects
