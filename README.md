@@ -14,7 +14,7 @@
 - angular-task-management
 - emi-calculator
 - Investment-calculator
----
+--
 
 ## 🤖 AI & LLM Engineering
 
