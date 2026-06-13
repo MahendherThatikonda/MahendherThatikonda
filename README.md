@@ -37,7 +37,6 @@
 
 ### Advanced GIS Projects
 - christchurch-solar-pv-parkinglots
-
 ---
 
 ## 📊 Data Science & Analytics
