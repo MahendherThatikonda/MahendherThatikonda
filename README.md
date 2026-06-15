@@ -45,7 +45,7 @@
 - Data-Analysis-using-ShinyApp
 
 ### Big Data & Distributed Computing
-- Hadoop Distributed File System (HDFS)
+- Hadoop Distributed File System(HDFS)
 - Apache Spark
 - Hive
 - PySpark
