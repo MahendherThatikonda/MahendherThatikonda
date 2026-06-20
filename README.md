@@ -3,7 +3,7 @@
 ## 🌐 Web Development (.NET, Angular, Full Stack)
 
 ### Full Stack Projects
-- DevSpot (.NET Core MVC, Identity, Role-Based Access)
+- DevSpot (.NET Core MVC,Identity, Role-Based Access)
 - CodePulse.API (ASP.NET Core Web API)
 - CodePulse.UI (Angular 20 Frontend)
 - DiaryEntries-WebAPI-CRUD (.NET Core Web API + EF Core)
