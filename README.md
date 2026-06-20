@@ -27,7 +27,7 @@
 - pdf-chatbot
 - web-chatbot
 
----
+--
 
 ## 🗺️ GIS & Spatial Analysis
 
