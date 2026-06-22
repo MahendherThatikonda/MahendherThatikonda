@@ -33,7 +33,7 @@
 
 ### Geospatial Projects
 - Geospatial-Analysis
-- Geospatial-Analysis-using-Python
+- Geospatial-Analysis using-Python
 
 ### Advanced GIS Projects
 - christchurch-solar-pv-parkinglots
