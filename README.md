@@ -36,7 +36,7 @@
 - Geospatial-Analysis using-Python
 
 ### Advanced GIS Projects
-- christchurch-solar-pv-parkinglots
+- christchurch solar pv parkinglots
 ---
 
 ## 📊 Data Science & Analytics
