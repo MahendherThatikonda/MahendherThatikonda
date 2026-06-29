@@ -6,7 +6,7 @@
 - DevSpot (.NET Core MVC,Identity, Role-Based Access)
 - CodePulse.API (ASP.NET Core Web API)
 - CodePulse.UI (Angular 20 Frontend)
-- DiaryEntries-WebAPI-CRUD (.NET Core Web API + EF Core)
+- DiaryEntries-WebAPI-CRUD (ASP.NET Core Web API + EF Core)
 - Diary (ASP.NET Core CRUD Application)
 
 ### Angular Applications
