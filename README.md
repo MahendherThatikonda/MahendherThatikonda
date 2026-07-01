@@ -1,6 +1,6 @@
 # Portfolio
 *** Areas of Interest: Software Development • AI/LLMs • Data Science • GIS
-## 🌐 Web Development (.NET, Angular, Full Stack)
+## 🌐 Web Development (.NET, Angular, Full Stack Dev)
 
 ### Full Stack Projects
 - DevSpot (.NET Core MVC,Identity, Role-Based Access)
