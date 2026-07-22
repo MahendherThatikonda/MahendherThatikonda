@@ -52,4 +52,5 @@
 
 ### Angular Learning Projects
 ## Docker
+## n8n AI Agents
 A collection of repositories exploring Angular concepts including routing, dependency injection, directives, RxJS, forms, HTTP requests and component lifecycle management.
