@@ -16,6 +16,7 @@
 - Investment-calculator
 
 ## 🤖 AI & LLM Engineering
+Digital Twin : https://twin-jxkx.onrender.com
 
 ### Production-Oriented AI Projects
 - compliance-ai-assistant
