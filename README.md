@@ -17,6 +17,7 @@
 
 ## 🤖 AI & LLM Engineering
 Digital Twin : https://twin-jxkx.onrender.com
+AI Compliance Assistant : https://compliance-ai-assistant-1.onrender.com/
 
 ### Production-Oriented AI Projects
 - compliance-ai-assistant
